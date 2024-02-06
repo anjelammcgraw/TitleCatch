@@ -1,6 +1,4 @@
-#TitleCatch Demo
-
-## Unsupervised Pre-Training of a GPT-Style Model
+# TitleCatch Demo
 
 Today, we'll be working on demo-ing "Title Catch," a specialized model tasked with analyzing essays to autonomously generate titles that encapsulate their content.
 
