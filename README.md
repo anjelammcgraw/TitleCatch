@@ -7,7 +7,7 @@ This involves fine-tuning a GPT-style, decoder-only architecture, tailored throu
 We'll be using Andrej Karpathy's [nanoGPT](https://github.com/karpathy/nanoGPT/tree/master) as our base model builder and architecture. 
 
 You can find Colab link to the notebook below:
-- [Title Catch](https://colab.research.google.com/drive/1dRPXfGLHejRCQCGAv47M8TLVG8_gX01K?usp=sharing)
+- [Title Catch](https://colab.research.google.com/drive/1ANpcXdC5zzK0xKYVe6unOofew1R-gKlu?usp=sharing)
 
 
 ## Purpose 🏗️
